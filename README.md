@@ -29,8 +29,13 @@ Solution:
 
 # Lesson 8 Final Project
 
-# Notes:
+# Notes
 
 1. scp -r(recursive flag, optional) training@[IP addr]:/home/training/udacity_training/code [local directory], this command for copying from the remote to local in SSH.
 2. head -50 input.txt | mapper.py | sort | reducer.py, for small dataset testing. 50 is just an arbitrary small number.
 3. edit etc/vimrc or etc/vim/vimrc for vim global setting
+
+# Resources
+
+1. File transfer between local and remote in SSH: https://docs.google.com/document/d/1MZ_rNxJhR4HCU1qJ2-w7xlk2MTHVqa9lnl_uj-zRkzk/pub
+2. Outdated course wiki: https://www.udacity.com/wiki/ud617#setting-up-the-vm-datasets
