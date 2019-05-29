@@ -1,5 +1,5 @@
 # Hadoop_MapReduce_Intro
-This repository contains Python scripts for the Introduction to Hadoop and MapReduce course at Udacity
+This repository contains Python scripts for the Introduction to Hadoop and MapReduce course by Cloudera at Udacity
 
 # Lesson 6 Project[Optional]
 1. Sales per Category
