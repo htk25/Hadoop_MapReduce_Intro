@@ -4,27 +4,51 @@ This repository contains Python scripts for the Introduction to Hadoop and MapRe
 # Lesson 6 Project[Optional]
 1. Sales per Category
 
-Solution: code/Lesson6_Project_1/mapper_Q1.py and code/Lesson6_Project_1/reducer_Q1.py
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q1.py 
+
+    code/Lesson6_Project_1/reducer_Q1.py
 
 2. Highest Sale
 
-Solution:
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q2.py 
+
+    code/Lesson6_Project_1/reducer_Q2.py
 
 3. Total Sales
 
-Solution:
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q3.py 
+
+    code/Lesson6_Project_1/reducer_Q3.py
 
 4. Hits to Page
 
-Solution:
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q4.py 
+
+    code/Lesson6_Project_1/reducer_Q4.py
 
 5. Hits from IP
 
-Solution:
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q5.py 
+
+    code/Lesson6_Project_1/reducer_Q5.py
 
 6. Most Popular
 
-Solution:
+  Solution: 
+
+    code/Lesson6_Project_1/mapper_Q6.py 
+
+    code/Lesson6_Project_1/reducer_Q6.py
 
 
 # Lesson 8 Final Project
